@@ -6,4 +6,4 @@ The app has three linked views that share one simulation and one time slider. Th
 
 The project is a single self-contained HTML file written in vanilla JavaScript with inline SVG charts, so it has no build step or dependencies. Just open `index.html` in any modern browser. It's intentionally a learning tool rather than an engineering model: weather is deterministic, the battery has perfect foresight of the day, and the grid is treated as a lossless bus. Possible next steps include a side-by-side scenario comparison, cost and CO₂ estimates, and a multi-day view that reflects annual capacity factors.
 
-![One-line diagram showing live power flows from the gas plant, wind, solar, and battery to the town](docs/diagram.png)
+![One-line diagram showing live power flows from the gas plant, wind, solar, and battery to the town](diagram.png)
